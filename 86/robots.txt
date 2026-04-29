@@ -1,0 +1,7 @@
+# Robots.txt file from https://www.unv1970.com
+# All robots will spider the domain
+User-agent: *
+Disallow: 
+
+https://www.86law.net/map.html
+https://www.86law.net/sitemap.html
